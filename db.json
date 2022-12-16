@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 13,
+      "firstName": "test",
+      "lastName": "test1",
+      "email": "test@gmail.com",
+      "mobile": "123456789",
+      "salary": "400000"
+    },
+    {
+      "id": 14,
+      "firstName": "Neha",
+      "lastName": "takle",
+      "email": "nt@gmail.com",
+      "mobile": "1234567891",
+      "salary": "340000"
+    },
+    {
+      "id": 15,
+      "firstName": "Madhuri",
+      "lastName": "Dhaigude",
+      "email": "msdhaigude@gmail.com",
+      "mobile": "9922679032",
+      "salary": "1200000000"
+    },
+    {
+      "id": 16,
+      "firstName": "Minakshi",
+      "lastName": "dhaigude",
+      "email": "manu@gmail.com",
+      "mobile": "9999999999",
+      "salary": "13"
+    }
+  ],
+  "comments": [],
+  "signupUsers": [
+    {
+      "fullname": "Minakshi Satish Dhaigude",
+      "mobile": 9960310325,
+      "email": "dhaigudeminakshi@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "fullname": "Soham",
+      "mobile": 8888888888,
+      "email": "soham@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "fullname": "abc1",
+      "mobile": 234567891,
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "fullname": "test",
+      "mobile": 9898888880,
+      "email": "test@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "fullname": "test1",
+      "mobile": 4444444444,
+      "email": "test1@gmail.com",
+      "password": "234",
+      "id": 5
+    },
+    {
+      "fullname": "test2",
+      "mobile": 123,
+      "email": "123@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "fullname": "test3",
+      "mobile": 1234,
+      "email": "test3@gmail.com",
+      "password": "456",
+      "id": 7
+    },
+    {
+      "fullname": "Manu",
+      "mobile": 12345,
+      "email": "manu@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "fullname": "asd",
+      "mobile": 1234456789,
+      "email": "asdgmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "fullname": "manu",
+      "mobile": 1111111111,
+      "email": "manu@gmail.com",
+      "password": "123456",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
